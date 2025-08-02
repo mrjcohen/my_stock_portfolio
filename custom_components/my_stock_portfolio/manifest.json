@@ -3,7 +3,7 @@
   "name": "My Stock Portfolio",
   "version": "1.0.0",
   "dependencies": [],
-  "documentation": "https://github.com/yourname/my_stock_portfolio",
+  "documentation": "https://github.com/mrjcohen/my_stock_portfolio",
   "requirements": ["yfinance"],
-  "codeowners": ["@yourgithub"]
+  "codeowners": ["@mrjcohen"]
 }
